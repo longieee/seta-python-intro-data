@@ -161,3 +161,6 @@ cython_debug/
 
 # pyenv virtual environment files
 .python-version
+
+# VSCode config file
+.vscode
