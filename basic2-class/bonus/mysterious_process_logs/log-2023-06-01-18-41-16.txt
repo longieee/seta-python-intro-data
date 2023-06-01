@@ -1,0 +1,109 @@
+# ---------------------------------- Stage 1 --------------------------------- #
+1+0 records in
+1+0 records out
+128 bytes transferred in 0.000005 secs (25600000 bytes/sec)
+1+0 records in
+1+0 records out
+128 bytes transferred in 0.000006 secs (21333333 bytes/sec)
+1+0 records in
+1+0 records out
+128 bytes transferred in 0.000005 secs (25600000 bytes/sec)
+1+0 records in
+1+0 records out
+128 bytes transferred in 0.000007 secs (18285714 bytes/sec)
+1+0 records in
+1+0 records out
+128 bytes transferred in 0.000006 secs (21333333 bytes/sec)
+1+0 records in
+1+0 records out
+128 bytes transferred in 0.000005 secs (25600000 bytes/sec)
+1+0 records in
+1+0 records out
+128 bytes transferred in 0.000005 secs (25600000 bytes/sec)
+1+0 records in
+1+0 records out
+128 bytes transferred in 0.000005 secs (25600000 bytes/sec)
+1+0 records in
+1+0 records out
+128 bytes transferred in 0.000005 secs (25600000 bytes/sec)
+1+0 records in
+1+0 records out
+128 bytes transferred in 0.000005 secs (25600000 bytes/sec)
+1+0 records in
+1+0 records out
+128 bytes transferred in 0.000005 secs (25600000 bytes/sec)
+1+0 records in
+1+0 records out
+128 bytes transferred in 0.000005 secs (25600000 bytes/sec)
+1+0 records in
+1+0 records out
+128 bytes transferred in 0.000006 secs (21333333 bytes/sec)
+1+0 records in
+1+0 records out
+128 bytes transferred in 0.000006 secs (21333333 bytes/sec)
+1+0 records in
+1+0 records out
+128 bytes transferred in 0.000006 secs (21333333 bytes/sec)
+1+0 records in
+1+0 records out
+128 bytes transferred in 0.000006 secs (21333333 bytes/sec)
+1+0 records in
+1+0 records out
+128 bytes transferred in 0.000005 secs (25600000 bytes/sec)
+1+0 records in
+1+0 records out
+128 bytes transferred in 0.000005 secs (25600000 bytes/sec)
+1+0 records in
+1+0 records out
+128 bytes transferred in 0.000005 secs (25600000 bytes/sec)
+1+0 records in
+1+0 records out
+128 bytes transferred in 0.000006 secs (21333333 bytes/sec)
+1+0 records in
+1+0 records out
+128 bytes transferred in 0.000006 secs (21333333 bytes/sec)
+1+0 records in
+1+0 records out
+128 bytes transferred in 0.000006 secs (21333333 bytes/sec)
+1+0 records in
+1+0 records out
+128 bytes transferred in 0.000005 secs (25600000 bytes/sec)
+1+0 records in
+1+0 records out
+128 bytes transferred in 0.000005 secs (25600000 bytes/sec)
+1+0 records in
+1+0 records out
+128 bytes transferred in 0.000005 secs (25600000 bytes/sec)
+1+0 records in
+1+0 records out
+128 bytes transferred in 0.000006 secs (21333333 bytes/sec)
+1+0 records in
+1+0 records out
+128 bytes transferred in 0.000006 secs (21333333 bytes/sec)
+1+0 records in
+1+0 records out
+128 bytes transferred in 0.000005 secs (25600000 bytes/sec)
+1+0 records in
+1+0 records out
+128 bytes transferred in 0.000006 secs (21333333 bytes/sec)
+1+0 records in
+1+0 records out
+128 bytes transferred in 0.000006 secs (21333333 bytes/sec)
+1+0 records in
+1+0 records out
+128 bytes transferred in 0.000006 secs (21333333 bytes/sec)
+1+0 records in
+1+0 records out
+128 bytes transferred in 0.000006 secs (21333333 bytes/sec)
+1+0 records in
+1+0 records out
+128 bytes transferred in 0.000005 secs (25600000 bytes/sec)
+1+0 records in
+1+0 records out
+128 bytes transferred in 0.000008 secs (16000000 bytes/sec)
+1+0 records in
+1+0 records out
+128 bytes transferred in 0.000007 secs (18285714 bytes/sec)
+
+# ---------------------------------- Stage 2 --------------------------------- #
+Cannot work on more than 32 files. Why? Just because
