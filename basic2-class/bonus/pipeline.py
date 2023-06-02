@@ -2,7 +2,9 @@ import numpy as np
 from datetime import datetime
 import stage_1, stage_2
 
-timestamp = datetime.utcnow().strftime("%Y-%m-%d-%H-%M-%S")
+now = datetime.utcnow()
+timestamp = now.strftime("%Y-%m-%d-%H-%M-%S")
+date = now.strftime("%Y-%m-%d")
 
 
 def generate_random_num_files() -> int:
@@ -20,11 +22,11 @@ num_files = generate_random_num_files()
 
 # Main pipeline section
 logs = "# ---------------------------------- Stage 1 --------------------------------- #\n"
-stage1_results = stage_1.stage_execute(num_files=num_files)
+stage1_results = stage_1.stage_execute(num_files=num_files, date=date)
 logs += stage1_results
 
 logs += "\n# ---------------------------------- Stage 2 --------------------------------- #\n"
-stage_2_results = stage_2.stage_execute()
+stage_2_results = stage_2.stage_execute(date=date)
 logs += stage_2_results
 
 # Write log to files
