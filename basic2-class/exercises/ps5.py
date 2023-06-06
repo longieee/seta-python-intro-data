@@ -35,7 +35,10 @@ def process(url):
         guid = entry.guid
         title = translate_html(entry.title)
         link = entry.link
-        description = translate_html(entry.description)
+        try:
+            description = translate_html(entry.description)
+        except AttributeError:
+            description = ""
         pubdate = translate_html(entry.published)
 
         try:
